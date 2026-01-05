@@ -18,7 +18,7 @@ export default function Home() {
         Technical Support Engineer
       </p>
     <p className="mt-6 max-w-xl text-neutral-500">
-      I support and troubleshoot cloud-based and web applications, working with AWS services to ensure stability, security, and performance.
+      I troubleshoot and support web and cloud-based applications.
     </p>
 
      <div className="mt-10 flex gap-4">
