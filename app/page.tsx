@@ -17,10 +17,9 @@ export default function Home() {
       <p className="mt-3 text-lg text-neutral-600">
         Data & Cloud Engineering
       </p>
-
-      <p className="mt-6 max-w-xl text-neutral-500">
-        I build reliable data pipelines, serverless architectures, and interactive dashboards using AWS and modern web technologies.
-      </p>
+    <p className="mt-6 max-w-xl text-neutral-500">
+      I support and troubleshoot cloud-based and web applications, working with AWS services to ensure stability, security, and performance.
+    </p>
 
      <div className="mt-10 flex gap-4">
         <a
