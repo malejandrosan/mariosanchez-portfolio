@@ -15,7 +15,7 @@ export default function Home() {
       </h1>
 
       <p className="mt-3 text-lg text-neutral-600">
-        Data & Cloud Engineering
+        Technical Support Engineer
       </p>
     <p className="mt-6 max-w-xl text-neutral-500">
       I support and troubleshoot cloud-based and web applications, working with AWS services to ensure stability, security, and performance.
